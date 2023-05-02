@@ -1,0 +1,2 @@
+# Countingapp
+Counting made easy
